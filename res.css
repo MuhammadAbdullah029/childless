@@ -73,9 +73,9 @@ nav{
     justify-content: center;
 }
 .b-1{
-    width: 70%;
+    width: 73%;
     margin-top: 3px;
-    margin-right: 11%;
+    margin-right: 6%;
 }
 .dt{
     gap: 1vw;
@@ -155,6 +155,9 @@ nav{
 .b-3{
     width: 55%;
     margin-right: 3%;
+}
+.dot-3 span{
+   margin-top: 1px;
 }
 .flx-elm:hover .ap{
     gap: 1vw;
@@ -313,7 +316,7 @@ details p{
 }
 
 .ll{
-    width: 53vw;
+    width: 50vw;
     height: 5vh;
     align-content: center;
     overflow: hidden;

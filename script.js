@@ -47,7 +47,7 @@ gsap.to(".hero img", {
 gsap.to(".inp p", {
     scrollTrigger: {
         trigger: ".inp",
-        start: "top 79%",
+        start: "top 69%",
         end: "top 11%",
         scrub: true,
         // markers: true

@@ -112,7 +112,7 @@ li:hover .dot{
     height: 100%;
 }
 .b-1{
-    width: 69%;
+    width: 66%;
     height: 1px;
     background: #000;
     transition: all 1s ease-in-out;
@@ -345,7 +345,6 @@ li:hover .dot{
     justify-content: center;
 }
 .dot-3 span{
-    margin-top: 1px;
     transform: translateX(-100%);
     opacity: 0;
     transition: all .5s ease-in-out;
@@ -517,7 +516,7 @@ li:hover .dot{
 }
 details{
     transition: all 1s ease;
-    border-bottom: 1px solid rgba(128, 128, 128, 0.603);
+    border-bottom: 1px solid #E4E4E4;
     width: 79%;
 }
 summary{
@@ -531,6 +530,7 @@ details p{
     margin-top: 1vw;
     font-weight: 100;
     line-height: 1.3vw;
+    padding: 2vw 0;
 }
 
 
